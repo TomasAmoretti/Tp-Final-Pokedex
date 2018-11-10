@@ -1,0 +1,1 @@
+Poner archivo de musica en la carpeta del proyecto e ir a Settings/compiler/linker settings y "add" escribir 'winmm' y pulsa OK

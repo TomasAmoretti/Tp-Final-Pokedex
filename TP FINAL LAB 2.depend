@@ -1,0 +1,390 @@
+# depslib dependency file v1.0
+1541078862 source:e:\tp final lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1541078862 source:f:\tp final lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1541078862 f:\tp final lab 2\pokedex.h
+	"string.h"
+	"Listas.h"
+
+1541078986 source:f:\tp final lab 2\pokedex.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1541267388 f:\tp final lab 2\listas.h
+
+1540223268 source:g:\facultad\programacion\cuatrimestre 2\librerias\librerias de listas\ar\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
+1537738344 g:\facultad\programacion\cuatrimestre 2\librerias\librerias de listas\ar\listas.h
+
+1541267566 source:f:\tp final lab 2\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
+1540415638 source:c:\users\pc\desktop\tp final lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1540415967 c:\users\pc\desktop\tp final lab 2\pokedex.h
+	"string.h"
+	"Listas.h"
+
+1540414810 c:\users\pc\desktop\tp final lab 2\listas.h
+
+1540416884 source:c:\users\pc\desktop\tp final lab 2\pokedex.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1540416931 source:c:\users\pc\desktop\tp final lab 2\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
+1541076952 source:e:\tp final lab 2\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
+1541074868 e:\tp final lab 2\listas.h
+
+1541078862 e:\tp final lab 2\pokedex.h
+	"string.h"
+	"Listas.h"
+
+1541078986 source:e:\tp final lab 2\pokedex.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1540827830 source:g:\tp final lab 2\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
+1540765546 g:\tp final lab 2\listas.h
+
+1540743396 source:g:\tp final lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1540745860 g:\tp final lab 2\pokedex.h
+	"string.h"
+	"Listas.h"
+
+1540766076 source:g:\tp final lab 2\pokedex.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1540827544 source:e:\tsp\programacion 2\tp final lab 2\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
+1540765546 e:\tsp\programacion 2\tp final lab 2\listas.h
+
+1540743396 source:e:\tsp\programacion 2\tp final lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1540745860 e:\tsp\programacion 2\tp final lab 2\pokedex.h
+	"string.h"
+	"Listas.h"
+
+1540766076 source:e:\tsp\programacion 2\tp final lab 2\pokedex.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1541625080 source:f:\tp final lab 2 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1541558390 f:\tp final lab 2 - copia\pokedex.h
+	"string.h"
+	<time.h>
+	"funciones_arbol_binario.h"
+
+1541548562 f:\tp final lab 2 - copia\listas.h
+
+1541516930 f:\tp final lab 2 - copia\filas.h
+	"Listas.h"
+
+1541594486 f:\tp final lab 2 - copia\funciones_arbol_binario.h
+	<string.h>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<winuser.h>
+	"FILAS.H"
+
+1541623446 source:f:\tp final lab 2 - copia\funciones_arbol_binario.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones_arbol_binario.h"
+	"FILAS.H"
+
+1541625054 source:f:\tp final lab 2 - copia\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
+1541556064 source:f:\tp final lab 2 - copia\filas.c
+	<stdio.h>
+	<stdlib.h>
+	"Filas.h"
+
+1541556064 source:d:\tp final lab 2 - copia\filas.c
+	<stdio.h>
+	<stdlib.h>
+	"Filas.h"
+
+1541516930 d:\tp final lab 2 - copia\filas.h
+	"Listas.h"
+
+1541548562 d:\tp final lab 2 - copia\listas.h
+
+1541532022 source:d:\tp final lab 2 - copia\funciones_arbol_binario.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones_arbol_binario.h"
+	"FILAS.H"
+
+1541594486 d:\tp final lab 2 - copia\funciones_arbol_binario.h
+	<string.h>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<winuser.h>
+	"FILAS.H"
+
+1541594824 source:d:\tp final lab 2 - copia\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
+1541519346 source:d:\tp final lab 2 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1541558390 d:\tp final lab 2 - copia\pokedex.h
+	"string.h"
+	<time.h>
+	"funciones_arbol_binario.h"
+
+1541604306 source:d:\tp final lab 2 - copia\pokedex.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1541531378 source:e:\tp final lab 2 - copia\filas.c
+	<stdio.h>
+	<stdlib.h>
+	"Filas.h"
+
+1541516930 e:\tp final lab 2 - copia\filas.h
+	"Listas.h"
+
+1541534124 e:\tp final lab 2 - copia\listas.h
+
+1541532022 source:e:\tp final lab 2 - copia\funciones_arbol_binario.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones_arbol_binario.h"
+	"FILAS.H"
+
+1541521774 e:\tp final lab 2 - copia\funciones_arbol_binario.h
+	<string.h>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	"FILAS.H"
+
+1541531378 source:e:\tp final lab 2 - copia\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
+1541519346 source:e:\tp final lab 2 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1541527556 e:\tp final lab 2 - copia\pokedex.h
+	"string.h"
+	"funciones_arbol_binario.h"
+
+1541534124 source:e:\tp final lab 2 - copia\pokedex.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1541630518 source:f:\tp final lab 2 - copia\pokedex.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1541556064 source:c:\users\tomia\desktop\tp final lab 2 - copia\filas.c
+	<stdio.h>
+	<stdlib.h>
+	"Filas.h"
+
+1541516930 c:\users\tomia\desktop\tp final lab 2 - copia\filas.h
+	"Listas.h"
+
+1541548562 c:\users\tomia\desktop\tp final lab 2 - copia\listas.h
+
+1541623446 source:c:\users\tomia\desktop\tp final lab 2 - copia\funciones_arbol_binario.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones_arbol_binario.h"
+	"FILAS.H"
+
+1541631844 c:\users\tomia\desktop\tp final lab 2 - copia\funciones_arbol_binario.h
+	<string.h>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<winuser.h>
+	"FILAS.H"
+
+1541625054 source:c:\users\tomia\desktop\tp final lab 2 - copia\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
+1541632135 source:c:\users\tomia\desktop\tp final lab 2 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+	<windows.h>
+	<mmsystem.h>
+	<pthread.h>
+
+1541558390 c:\users\tomia\desktop\tp final lab 2 - copia\pokedex.h
+	"string.h"
+	<time.h>
+	"funciones_arbol_binario.h"
+
+1541633690 source:c:\users\tomia\desktop\tp final lab 2 - copia\pokedex.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1541556064 source:c:\users\tomia\desktop\tp final laboratorio 2\filas.c
+	<stdio.h>
+	<stdlib.h>
+	"Filas.h"
+
+1541516930 c:\users\tomia\desktop\tp final laboratorio 2\filas.h
+	"Listas.h"
+
+1541548562 c:\users\tomia\desktop\tp final laboratorio 2\listas.h
+
+1541637760 source:c:\users\tomia\desktop\tp final laboratorio 2\funciones_arbol_binario.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones_arbol_binario.h"
+	"FILAS.H"
+
+1541637760 c:\users\tomia\desktop\tp final laboratorio 2\funciones_arbol_binario.h
+	<string.h>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<winuser.h>
+	"FILAS.H"
+
+1541650698 source:c:\users\tomia\desktop\tp final laboratorio 2\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
+1541652276 source:c:\users\tomia\desktop\tp final laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+	<windows.h>
+	<mmsystem.h>
+	<pthread.h>
+
+1541637758 c:\users\tomia\desktop\tp final laboratorio 2\pokedex.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<time.h>
+	"funciones_arbol_binario.h"
+	<windows.h>
+
+1541680876 source:c:\users\tomia\desktop\tp final laboratorio 2\pokedex.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
+1541556064 source:e:\tsp\programacion 2\tp final laboratorio 2\filas.c
+	<stdio.h>
+	<stdlib.h>
+	"Filas.h"
+
+1541516930 e:\tsp\programacion 2\tp final laboratorio 2\filas.h
+	"Listas.h"
+
+1541548562 e:\tsp\programacion 2\tp final laboratorio 2\listas.h
+
+1541637760 source:e:\tsp\programacion 2\tp final laboratorio 2\funciones_arbol_binario.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones_arbol_binario.h"
+	"FILAS.H"
+
+1541637760 e:\tsp\programacion 2\tp final laboratorio 2\funciones_arbol_binario.h
+	<string.h>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<winuser.h>
+	"FILAS.H"
+
+1541650698 source:e:\tsp\programacion 2\tp final laboratorio 2\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas.h"
+
+1541652276 source:e:\tsp\programacion 2\tp final laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+	<windows.h>
+	<mmsystem.h>
+	<pthread.h>
+
+1541637758 e:\tsp\programacion 2\tp final laboratorio 2\pokedex.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	<time.h>
+	"funciones_arbol_binario.h"
+	<windows.h>
+
+1541679390 source:e:\tsp\programacion 2\tp final laboratorio 2\pokedex.c
+	<stdio.h>
+	<stdlib.h>
+	"pokedex.h"
+
